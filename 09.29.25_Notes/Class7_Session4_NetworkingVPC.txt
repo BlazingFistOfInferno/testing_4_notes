@@ -1,0 +1,29 @@
+Install java 17
+instal vs
+
+octet is a set of 8 bits
+
+
+Position:  8th   7th   6th   5th   4th   3rd   2nd   1st
+           128   64    32    16    8     4     2     1
+           
+           
+           200 =11001000
+           
+           255 =11111111
+           
+           So each space you move to from left to right, you’re doubling the number.
+
+i.e. = 128-64-32-16-8-4-2-1
+
+
+Binary Game
+
+
+The Binary Game
+https://learningcontent.cisco.com/games/binary/index.html
+
+
+2^(32-n) - 2 == regular formula for network IP calculation
+2^(32-n) - 5 == cloud formula for network IP calculation
+
